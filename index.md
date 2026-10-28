@@ -47,4 +47,4 @@ data. Deleting the app from your device removes whatever it stored there.
 ## Privacy
 
 Hi Monday has no ads and no third-party trackers, and we don't sell your data.
-The full policy is in the [Hi Monday Privacy Policy](https://pandyin.github.io/hi-monday-privacy/).
+The full policy is in the [Hi Monday Privacy Policy](https://himondayapp.github.io/hi-monday-privacy/).
