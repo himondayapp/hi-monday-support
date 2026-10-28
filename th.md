@@ -51,4 +51,4 @@ Hi Monday คือแอปติดตามพอร์ตหลายสก�
 ## ความเป็นส่วนตัว
 
 Hi Monday ไม่มีโฆษณา ไม่มีตัวติดตามจากบุคคลที่สาม และเราไม่ขายข้อมูลของคุณ
-อ่านนโยบายฉบับเต็มได้ที่[นโยบายความเป็นส่วนตัวของ Hi Monday](https://himondayapp.github.io/hi-monday-privacy/)
+อ่านนโยบายฉบับเต็มได้ที่[นโยบายความเป็นส่วนตัวของ Hi Monday](https://himondayapp.github.io/hi-monday-privacy/th/)
